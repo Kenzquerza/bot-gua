@@ -25,8 +25,9 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > node index.js
 ```
 
+## DOWNLOAD TERMUX
 
-
+https://f-droid.org/repo/com.termux_118.apk
 
 
 
