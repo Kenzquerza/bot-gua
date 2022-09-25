@@ -17,7 +17,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install nodejs
 > apt update && apt upgrade
 > git clone https://github.com/Kenzquerza/bot-gua.git
-> cd reuzsc
+> cd bot-gua
 > bash install.sh
 > node index.js
 ```
