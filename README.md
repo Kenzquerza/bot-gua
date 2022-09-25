@@ -10,7 +10,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 ## CARA INSTALL
 # TERMUX
 ```bash
-> download termux nya link termux udah gua Taruh di install
+> download termux nya link termux udah gua Taruh di bawah install termux
 > Buka
 > termux-setup-storage
 > Apt update && apt upgrade 
